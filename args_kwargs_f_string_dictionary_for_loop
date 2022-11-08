@@ -1,0 +1,11 @@
+f-string ===print(f"My name is {name}")
+
+*args and **kwargs ===
+when we want to use multiple arguments in 
+normal,args(it is used for list etc )  and **kwargs(for dictionary)
+
+
+so for printing in dictionary:
+for i ,j in dictionary.items()    <---this is the syntx you have to use that.
+a 
+
